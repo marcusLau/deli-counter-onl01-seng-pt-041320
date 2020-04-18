@@ -10,5 +10,5 @@ def line(queue)
   else
     puts "The line is currently empty."
   end
-  puts "The line is currently: #{pos.join(" ")}
+  puts "The line is currently: #{pos.join(" ")}"
 end
