@@ -10,6 +10,6 @@ def line(queue)
     for i in 0..queue.size-1
       pos << "#{i+1}. #{queue[i]}"
     end
+    puts "The line is currently: #{pos.join(" ")}"
   end
-  puts "The line is currently: #{pos.join(" ")}"
 end
