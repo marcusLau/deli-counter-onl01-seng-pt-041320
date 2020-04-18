@@ -2,7 +2,8 @@
 
 def line(queue)
   if queue.length > 0 
-    position = 1
-    queue.each do |customer|
-      position
+    pos = []
+    # make an array with [1. Ada, 2. Ken, 3. Lol] 
+    for i in 0..queue.size-1
+      pos << 
 end
