@@ -7,5 +7,6 @@ def line(queue)
     for i in 0..queue.size-1
       pos << "#{i+1}. #{queue[i]}"
     end
-    
+  else
+    ""
 end
