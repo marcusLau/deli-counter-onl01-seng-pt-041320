@@ -16,6 +16,6 @@ end
 # adds customer name to the end and prints out location index
 def take_a_number(queue, name)
   queue << name
-  puts "Welcome #{name}. You are number #{queue.size} in line."
+  puts "Welcome, #{name}. You are number #{queue.size} in line."
 end
   
