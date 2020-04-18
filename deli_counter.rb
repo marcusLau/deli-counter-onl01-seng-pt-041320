@@ -13,4 +13,7 @@ def line(queue)
   end
 end
 
+# adds customer name to the end and prints out location index
 def take_a_number(queue, name)
+  
+  
