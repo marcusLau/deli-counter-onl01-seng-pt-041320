@@ -10,5 +10,5 @@ def line(queue)
   else
     puts "The line is currently empty."
   end
-  puts "The line is currently "
+  puts "The line is currently: "
 end
