@@ -2,5 +2,6 @@
 
 def line(queue)
   if queue.length > 0 
+    position = 1
     
 end
